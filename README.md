@@ -2,7 +2,7 @@
 #### :slightly_smiling_face: Who am I 
 My name is Ilia. In 2018 I got enrolled into Project Management degree program, however during some time I realised that I have a passion for Information Technologies and everything related to working with data. That's how I've started developing myself in these fields.
 
-Right now I am working as a Lead Product Analyst at Sravni.ru, being responsible for 5 product streams:
+Right now I am working as Analytics Team Lead at Sravni.ru, being responsible for 5 product streams:
 - Agency Cabinet
 - KASKO
 - Mortgage Insurance / Travel Insurance / Accident Insurance / Property Insurance
